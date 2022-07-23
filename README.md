@@ -7,6 +7,7 @@ Task 2: Calculating the maximum degree of rotation for the robot foot movement..
 ## Table of Contents
 * [Task 1: Robot legs stick model](#1)
 * [Task 2: Maximum degree of rotation for the robot foot movement](#2)
+* [Participated in the Task](#3)
 
 
 <a name= "1"></a>
@@ -38,6 +39,7 @@ The calculation done by using the rule bellow:
 
 `Theta = tan^-1 * (adjacent /  opposite)`
 
+<a name= "3"></a>
 ## Participated in the Task: 
 - Abdulwahab Dhifallah [@Elechop](https://github.com/Elechop)
 
