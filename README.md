@@ -32,6 +32,8 @@ The initial robot legs stick model was designed using Cinema 4D.
 
 The calculation done by using the rule bellow:
 
-Theta = tan^-1 * (adjacent /  opposite)
+`Theta = tan^-1 * (adjacent /  opposite)`
 
+## Participated in the Task: 
+- Abdulwahab Dhifallah [@Elechop](https://github.com/Elechop)
 
