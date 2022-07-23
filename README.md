@@ -19,7 +19,7 @@ The initial robot legs stick model was designed using Cinema 4D.
 - Legs: 51 cm.
 - Feet: 4 cm.
 
-
+![](Task 1/SC1.png)
 
 ### Technologies Used
 - 3D design software.
